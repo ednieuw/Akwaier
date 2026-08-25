@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>akwaier.ico</ApplicationIcon>
+    <AssemblyName>Akwaier</AssemblyName>
+    <RootNamespace>Akwaier</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Version>1.0.0</Version>
+    <Product>Akwaier</Product>
+    <!-- Geen symbolen: het programma wordt verspreid en anders staan de
+         bronpaden van deze machine in elke foutmelding. Zet dit tijdelijk op
+         "embedded" zodra je een fout wilt natrekken. -->
+    <DebugType>none</DebugType>
+    <!-- Zonder dit blijven de vijf native DLL's van WindowsDesktop naast de exe
+         staan; hiermee gaan ze mee het ene bestand in. -->
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+</Project>
