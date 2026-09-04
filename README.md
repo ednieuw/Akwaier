@@ -1,5 +1,5 @@
 # Akwaier
-Acquire-game for Python, Mac-I-OS and Windows11
+Akwaier-game for Python, Mac-I-OS and Windows11 vertaald van het Acorn BBCBASIC programma uit 1987.
 
 # AKWAIER — handleiding
 
@@ -8,7 +8,6 @@ een bord van 15 bij 15, daarmee groeien acht hotelketens, en je verdient geld do
 tijd aandelen te kopen in de keten die straks door een ander wordt opgeslokt. Wie aan
 het eind het grootste vermogen heeft, wint.
 
-Dit is de Windows-uitvoering van het Acorn BBC Basic Micro-programma uit 1987. 
 ---
 
 ## 1. Starten
