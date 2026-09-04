@@ -1,4 +1,4 @@
-# Acquire-Akwaier
+# Akwaier
 Acquire-game for Python, Mac-I-OS and Windows11
 
 # AKWAIER — handleiding
@@ -8,10 +8,7 @@ een bord van 15 bij 15, daarmee groeien acht hotelketens, en je verdient geld do
 tijd aandelen te kopen in de keten die straks door een ander wordt opgeslokt. Wie aan
 het eind het grootste vermogen heeft, wint.
 
-Dit is de Windows-uitvoering van het BBC Micro-programma `AQUIRE.BBC` uit 1987. De
-regels zijn die van dat programma, niet die van het bordspel van Sid Sackson — op twee
-punten wijkt het duidelijk af, en die staan hieronder bij *Stichten* en *Losse stenen*.
-
+Dit is de Windows-uitvoering van het Acorn BBC Basic Micro-programma uit 1987. 
 ---
 
 ## 1. Starten
